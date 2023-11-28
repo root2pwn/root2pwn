@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @root2pwn
+- 👀 I’ve 12 years experience in cybersecurity.
+- 🌱 I’m currently learning Web3 Security.
+- 💞️ I’m looking to collaborate on red team assessments and penetration tests.
+- 📫 How to reach me 📥root2pwn@gmail.com//🐦:root2pwn
